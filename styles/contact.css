@@ -1,3 +1,7 @@
-.contact-text {
+body {
     text-align: center;
+}
+
+.profile-pic {
+    border-radius: 25px;
 }
