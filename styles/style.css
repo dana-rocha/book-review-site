@@ -26,13 +26,18 @@ html * {
 }
 
 img {
-    height: 50%;
-    width: 50%;
+    width: 300px;
+    height: 400px;
 }
 
 ol, ul {
     list-style: none;
 }
+
+a:visited {
+    color: green;
+}
+
 
 a:hover {
     color: #FF4D4D;
