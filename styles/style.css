@@ -1,0 +1,30 @@
+body {
+    background-color: lightgrey;
+}
+
+header,footer {
+    background-color: lightblue;
+    border-style: double;
+
+}
+
+h1 {
+    font-style: italic;
+    color: #004D99;
+}
+
+h2 {
+    color: #009966;
+}
+
+h3 {
+    color: #4C00E6;
+}
+
+html * {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.book-link:hover {
+    color: #FF4D4D;
+}
