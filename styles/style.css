@@ -25,6 +25,15 @@ html * {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.book-link:hover {
+img {
+    height: 50%;
+    width: 50%;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+a:hover {
     color: #FF4D4D;
 }
